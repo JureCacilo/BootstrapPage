@@ -1,0 +1,18 @@
+.container {
+  min-height: 600px;
+
+}
+
+footer {
+  background-color: #425cf4;
+  color: white;
+  padding: 10px;
+}
+
+.content {
+  margin-top:40px;
+}
+
+:target {
+  color:red !important;
+}
